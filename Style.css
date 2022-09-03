@@ -1,4 +1,10 @@
 .nav {
     background-color: black;
     color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    width: 100%;
 }
