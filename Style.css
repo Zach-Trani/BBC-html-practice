@@ -3,8 +3,11 @@
     color: white;
     display: flex;
     flex-direction: row;
+    font-size: 20px;
 }
 
 ul {
     width: 100%;
+    display: flex;
+    justify-content: space-between;
 }
